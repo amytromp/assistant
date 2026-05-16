@@ -15,7 +15,7 @@
 
 ```bash
 # 克隆
-git clone https://github.com/amytromp/assistant-2api.git
+git clone https://github.com/amytromp/assistant.git
 cd assistant-2api
 
 # 配置
